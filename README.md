@@ -27,7 +27,7 @@ Network/DHCP configuration of my Lab: <br/>
 <img src="https://i.imgur.com/psuOjE8.png" width="80%" alt="labs"/>
 <br />
 <br />
-
+<p align="center">
 Available hosts: <br/>
 <img src="https://i.imgur.com/iQNot4x.png" width="80%" alt="labs"/>
 <br />
