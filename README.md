@@ -12,7 +12,7 @@ This is a cybersecurity lab that I built on my local computer using VMware Works
 
 •  <b>Metasploitable2</b>: This is another virtual machine that contains a deliberately insecure Linux system. I use it to practice network security testing and learn about common network vulnerabilities and exploits.
 
-<b>Features</b>
+<b>Features</b><br>
 •  The virtual machines are connected to a virtual network that allows communication between them.
 
 •  The virtual machines are configured with dynamic IP addresses.
